@@ -47,7 +47,7 @@
         ["xpath=//form[@id='u_0_a_td']/div/div/input", "xpath:idRelative"],
         ["xpath=//div/input", "xpath:position"]
       ],
-      "value": "apataoluwatoseen@yahoo.com"
+      "value": "enter email address"
     }, {
       "id": "706a29d5-4e29-4610-88b9-1e0ad47e00e1",
       "comment": "",
@@ -75,7 +75,7 @@
         ["xpath=//div[@id='passContainer']/input", "xpath:idRelative"],
         ["xpath=//div[2]/div/input", "xpath:position"]
       ],
-      "value": "AINAd1992"
+      "value": "enter password"
     }, {
       "id": "2103d234-b196-472c-89ff-5371bc61f8c5",
       "comment": "",
