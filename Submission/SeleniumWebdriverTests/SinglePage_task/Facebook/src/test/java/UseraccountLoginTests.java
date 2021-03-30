@@ -30,10 +30,10 @@ public class UseraccountLoginTests {
     }
     @Test
     public void loginTest() throws InterruptedException {
-        //Click on the username field and input a valid username "apataoluwatoseen@yahoo.com"
-        driver.findElement(By.id("email")).sendKeys("apataoluwatoseen@yahoo.com");
-        //locate the email field and use your own valid password "AINAd1992"
-        driver.findElement(By.id("pass")).sendKeys("AINAd1992");
+        //Click on the username field and input a valid username "enter email add"
+        driver.findElement(By.id("email")).sendKeys("enter email address");
+        //locate the email field and use your own valid password "enter password"
+        driver.findElement(By.id("pass")).sendKeys("enter password");
         //Click on the login button
         driver.findElement(By.xpath("/html/body/div[1]/div[2]/div[1]/div/div/div/div[2]/div/div[1]/form/div[2]/button")).click();
         //wait to see users logged in page
