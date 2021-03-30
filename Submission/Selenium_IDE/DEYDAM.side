@@ -90,7 +90,7 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[3]/div/input", "xpath:idRelative"],
         ["xpath=//div[3]/div/input", "xpath:position"]
       ],
-      "value": "oapata2@gmail.com"
+      "value": "enter email address"
     }, {
       "id": "c4008547-c578-41be-b48d-987f05af562b",
       "comment": "",
@@ -118,7 +118,7 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[4]/div/input", "xpath:idRelative"],
         ["xpath=//div[4]/div/input", "xpath:position"]
       ],
-      "value": "AINAd1992"
+      "value": "enter password"
     }, {
       "id": "ed43af05-4435-4fd9-a690-795902c43574",
       "comment": "",
@@ -146,7 +146,7 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[5]/div/input", "xpath:idRelative"],
         ["xpath=//div[5]/div/input", "xpath:position"]
       ],
-      "value": "AINAd1992"
+      "value": "enter password"
     }, {
       "id": "922a0ac7-852f-4790-9e87-8ee3f0ca87bc",
       "comment": "",
